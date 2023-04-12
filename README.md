@@ -16,7 +16,7 @@ TODO and known bugs:
 
 
 WDT reset log to deal with later:
-
+```
 ets jan 8 2013, rst cause:4, boot mode: (3,6)
 
 wdt reset
@@ -29,3 +29,4 @@ chksum 0x2b
 csum 0x2b
 v0004d1e0
 ~ld
+```
