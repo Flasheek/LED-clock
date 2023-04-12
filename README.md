@@ -3,11 +3,14 @@ Firmware for a clock made with ESP8266 board and 8x32 LED matrix
 
 Features:
 - wi-fi connectivity
-- weather info from OpenWeatherMaps
-- 3 sizes of clock display
-- weather animation in background
+- weather info from openweathermap.org
+- time and day info from pool.ntp.org
+- clock display in 3 different fonts
 - temperature display
-- brightness setting from encoder
+- day of week display using simple graphics
+- background weather animation
+- ability to cycle between different variants of displays
+- ability to set brightness using encoder
 
 TODO and known bugs:
 - ESP8266 resets randomly every couple of days with HW WDT reset
