@@ -1211,7 +1211,7 @@ const char* hostname = "LED-clock";
 
 const char* OWMhost = "api.openweathermap.org";
 String city = "Moscow,RU";
-String apiKey = "bd466cc7bd672e4fc9f349ee7397ffb4";
+String apiKey = "___"; // Edited to comply with the rules of OWM. Enter your own api key here
 
 CRGB leds[NUM_LEDS];
 
